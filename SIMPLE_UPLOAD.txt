@@ -1,0 +1,21 @@
+EASY GITHUB UPLOAD STEPS:
+
+1. Go to: https://github.com/QhadriQ/typing-speed-test
+
+2. Click: "Add file" → "Upload files"
+
+3. Select these folders/files from your project:
+   - src folder (drag entire folder)
+   - public folder (drag entire folder)
+   - package.json
+   - package-lock.json
+   - README.md
+   - .gitignore
+
+4. Type commit message: "Initial commit: TypeSpeed App"
+
+5. Click "Commit changes"
+
+DONE! Your code will be on GitHub.
+
+Note: Skip node_modules folder - it's not needed on GitHub.
