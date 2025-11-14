@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/typingspeediouuoipl/static/css/main.24f887c8.css",
+    "main.js": "/typingspeediouuoipl/static/js/main.ae6fc346.js",
+    "static/js/453.c823a905.chunk.js": "/typingspeediouuoipl/static/js/453.c823a905.chunk.js",
+    "index.html": "/typingspeediouuoipl/index.html",
+    "main.24f887c8.css.map": "/typingspeediouuoipl/static/css/main.24f887c8.css.map",
+    "main.ae6fc346.js.map": "/typingspeediouuoipl/static/js/main.ae6fc346.js.map",
+    "453.c823a905.chunk.js.map": "/typingspeediouuoipl/static/js/453.c823a905.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24f887c8.css",
+    "static/js/main.ae6fc346.js"
+  ]
+}
